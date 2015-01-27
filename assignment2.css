@@ -53,6 +53,10 @@
 	color: green;
 }
 
+.code ol li {
+	text-indent: 1.5em;
+
+}
 .footer {
 	background: #789; 
 	color: #def; 
