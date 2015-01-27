@@ -4,7 +4,7 @@
 	text-align: center;
 }
 
-.favorites {
+.lists {
 	background: #e6e9ec;
 	padding: 10px; 
 	border-radius: 4px; 
@@ -14,22 +14,7 @@
 	height: 150px;
 }
 
-.favorites h3 {
-	color: green;
-}
-
-.interests {
-	background: #e6e9ec;
-	padding: 10px; 
-	border-radius: 4px; 
-	display: inline-block; 
-	margin: 5px;
-	vertical-align: top;
-	height: 150px;
-
-}
-
-.interests h3 {
+.lists h3 {
 	color: green;
 }
 
