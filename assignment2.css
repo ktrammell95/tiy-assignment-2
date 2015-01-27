@@ -3,4 +3,37 @@
 	color: white;"
 }
 
-style="background: #456; color: white;"
+.favorites {
+	background: #e6e9ec;
+	padding: 10px; 
+	border-radius: 4px; 
+	display: inline-block; 
+	margin: 5px;
+}
+
+.favorites h3 {
+	color: green;
+}
+
+.interests {
+	background: #e6e9ec;
+	padding: 10px; 
+	border-radius: 4px; 
+	display: inline-block; 
+	margin: 5px;"
+}
+
+.interests h3 {
+	color: green;
+}
+
+.programming {
+	background: #e6e9ec;
+	padding: 10px; 
+	border-radius: 4px; 
+	display: inline-block; 
+	margin: 5px;"
+}
+
+.programming h3 {
+	color: green;
