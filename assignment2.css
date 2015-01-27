@@ -10,6 +10,7 @@
 	display: inline-block; 
 	margin: 5px;
 	vertical-align: top;
+	height: 150px;
 }
 
 .favorites h3 {
@@ -23,6 +24,8 @@
 	display: inline-block; 
 	margin: 5px;
 	vertical-align: top;
+	height: 150px;
+
 }
 
 .interests h3 {
@@ -47,6 +50,9 @@
 	border-radius: 4px; 
 	display: inline-block; 
 	margin: 5px;
+	height: 150px;
+	vertical-align: top;
+
 }
 
 .code h3 {
