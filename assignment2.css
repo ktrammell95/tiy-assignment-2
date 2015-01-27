@@ -60,5 +60,6 @@
 .footer {
 	background: #789; 
 	color: #def; 
-	text-align: right;"
+	text-align: right;
+	font-size: small;
 }
